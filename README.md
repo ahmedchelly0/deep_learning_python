@@ -1,1 +1,1 @@
-# deep_learning_python
+# 2GL2_Python
